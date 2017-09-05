@@ -1,0 +1,6 @@
+# npm
+#
+example/
+.git/
+.gitignore
+npm-debug.log
